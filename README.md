@@ -30,7 +30,7 @@
 - [ ] [deep learning](http://www.deeplearningbook.org)
 
 ## 学习资源_项目
-- [ ] kaggle(https://www.kaggle.com)
+- [ ] https://www.kaggle.com
 
 ## 实践作业
 ## 实践项目
