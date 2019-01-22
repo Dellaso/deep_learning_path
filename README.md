@@ -27,7 +27,9 @@
 - [ ] [Hinton机器学习与神经网络 网易云中文](https://study.163.com/course/courseMain.htm?courseId=1003842018&_trace_c_p_k2_=f088054ec94a4c96b19b9af3feac8d21):大师的课
 
 ## 学习资源_书籍
-- [ ] [deep learning](http://www.deeplearningbook.org)
+- [ ] ~~[deep learning](http://www.deeplearningbook.org)~~ 删除原因：很多地方看不懂。以线性代数为例，虽然是大神的书，但并没有讲得很深刻，一开始就是讲概念、用法等。但可以以此书为框架学习。
+  - 线性代数
+  
 
 ## 学习资源_项目
 - [ ] https://www.kaggle.com
@@ -35,6 +37,8 @@
 ## 实践作业
 ## 实践项目
 ## 心得体会
+- CS231n 有几个点看不懂。**要是那些课程视频能像B站那样弹幕，且是长篇弹幕就好了**
+  [弹幕教程](https://blog.csdn.net/u013200308/article/details/57123100)
 
 ## 其它
 * [学习如何去学习](https://www.coursera.org/learn/learning-how-to-learn)
