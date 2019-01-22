@@ -20,6 +20,7 @@
 
 ## 学习资源_视频
 - [ ] [斯坦福CS231n李飞飞计算机视觉 2017 网易云中文](https://study.163.com/course/courseMain.htm?courseId=1003223001&_trace_c_p_k2_=4d71d0b21af64196927bac7de71cc57a):以项目为中心
+    [我的难点学习笔记](https://github.com/Dellaso/deep_learning_path/blob/master/cs231n_learn_note.md)
   - [youtube](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 - [ ] [吴恩达机器学习 2017 网易云中文](https://study.163.com/course/introduction/1004570029.htm):更多基础概念
   - [首发地址](https://www.coursera.org/learn/machine-learning)
