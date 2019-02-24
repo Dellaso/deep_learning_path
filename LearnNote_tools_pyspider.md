@@ -1,8 +1,8 @@
-###1. 如何进入mac os的/Library/Frameworks/Python...文件？
+### 1. 如何进入mac os的/Library/Frameworks/Python...文件？
 
 进入系统地Library而不是文件的Library：左上角“前往”，或者 command+shift+G
 
-###2. pyspider 不支持python3.7
+### 2. pyspider 不支持python3.7
 
 pyspider的github已经有人有了solution，但尚未合并成功。所以我打算本地fix bug，然后运行。
 依然不行，虽然我把本地所有"async"关键字都改成了”async_mode“,依然还有其它文件跑不过。例如pyspider依赖于PhantomJS，而安装PhantomJS在MAC又一堆事。
