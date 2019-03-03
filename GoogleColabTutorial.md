@@ -1,12 +1,12 @@
 # Google Colab Tutorial
 
-### 1. if the .py is in the /content folder
+### 1. if the .py is in the /content folder, how import it
 ```
 from filebasicop import addnum
 addnum(2)
 ```
 
-### 2. if the .py is in  the /content/my_project
+### 2. if the .py is in  the /content/my_project, how import it
 ```
 import sys
 sys.path.insert(0, '/content/my_project')
@@ -26,7 +26,8 @@ from google.colab import files
 uploaded = files.upload()
 ```
 
-### 5.from google.colab import files
+### 5.mount google drive
 ```
-uploaded = files.upload()
+from google.colab import drive
+drive.mount('/content/drive/')
 ```
