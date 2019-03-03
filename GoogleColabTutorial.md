@@ -31,3 +31,22 @@ uploaded = files.upload()
 from google.colab import drive
 drive.mount('/content/drive/')
 ```
+
+### 6. remove file
+```
+!rm hello.py
+or
+rm -rf custom_data_cnn.py
+or
+!rm -rf _config.yml updated_custom_data_cnn.py
+```
+
+### 7. remove foler
+```
+!rm -rf own_data_cnn_implementation_keras/
+```
+
+### 8. create folder
+```
+!mkdir my_project
+```
