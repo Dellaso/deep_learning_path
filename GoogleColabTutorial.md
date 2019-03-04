@@ -51,6 +51,28 @@ or
 !mkdir my_project
 ```
 
+### 9. Check your Folder Data
+
+```
+!ls Drive/test
+```
+
+### 10. Make zip file of your Data
+
+```
+from google.colab import files
+import zipfile
+import sys
+foldername = 'your folder or filename'
+zipfile.ZipFile('Drive/'+foldername + '.zip', 'w', zipfile.ZIP_DEFLATED)
+```
+
+### 11. Downloading the data from the colab
+
+```
+from google.colab import files
+files.download('Drive/test.zip')
+```
 
 
 ### other src:
